@@ -1,4 +1,5 @@
 # Hybrid Application
+
 - OS위에서 작동하는 웹브라우저 위에서 동작
 - 표준을 지킨다. -> HTML5
 - HTML5 API를 사용하여 OS가 제공하는 API를 대체하여 Application을 대체 -> **브라우저가 OS역할을 함** / One Source Multi Platform
